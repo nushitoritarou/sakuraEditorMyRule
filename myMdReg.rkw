@@ -3,3 +3,4 @@ RxKey[000]=RK1,/^#+\s*.*/k
 RxKey[001]=CMT,/`.+?`/k
 RxKey[002]=RK3,/^\s*(\*\s|・)[^☆]*/k
 RxKey[003]=RK2,/☆.*/k
+RxKey[004]=RK3,/^\s*(>).*/k
